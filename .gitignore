@@ -1,0 +1,6 @@
+*.toe
+Backup/
+Dep/python/
+scripts/
+*.xlsx
+*.csv
